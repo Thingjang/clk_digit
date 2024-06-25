@@ -1,7 +1,7 @@
 ### Choose font: Digital-7
 ### Background & foreground
 
-### import libraries
+### import libraries:
 ```python
 from tkinter import*
 from tkinter.ttk import*
